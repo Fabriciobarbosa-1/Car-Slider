@@ -8,6 +8,7 @@ A sleek car carousel built with HTML, CSS, and JavaScript, featuring smooth tran
 
 ## 📷 Demo
 
+![Image](https://github.com/user-attachments/assets/fcde7aaa-84f5-4afc-937c-2db8367004e3)
 
 
 ## 🚀 Technologies Used
