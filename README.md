@@ -4,7 +4,13 @@ A sleek car carousel built with HTML, CSS, and JavaScript, featuring smooth tran
 
 ## 📌 Features
 
-✅ Car slider with smooth animations✅ "Next" and "Previous" navigation buttons✅ Interactive progress indicators✅ Responsive layout styled with CSS Grid and Flexbox
+✅ Car slider with smooth animations
+
+✅ "Next" and "Previous" navigation buttons
+
+✅ Interactive progress indicators
+
+✅ Responsive layout styled with CSS Grid and Flexbox
 
 ## 📷 Demo
 
